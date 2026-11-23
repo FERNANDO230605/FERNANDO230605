@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola 👋, soy Fernando Aguilera
+### Desarrollador de Software Web
 
-<!--
-**FERNANDO230605/FERNANDO230605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Visita mi Portafolio Web completo aquí:** [https://[FERNANDO230605].github.io/portafolio/](https://[tu-usuario].github.io/portafolio/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formación Académica
+- **Desarrollo y Gestion de software** — Universidad tecnologica Fidel Velazquez (2027)
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, HTML5, CSS3
+- **Bases de Datos:** MongoDB
+- **Plataformas:** Git, GitHub, GitHub Pages
+
+### 🚀 Proyectos Destacados
+1. **[Tienda LMS (MEAN Stack)](https://github.com/FERNANDO230605/tienda_lms_mean)** — Plataforma web para visualización y compra de cursos en línea.
+2. **[Panel Administrativo LMS (MEAN Stack)](https://github.com/FERNANDO230605/admin_lms_mean)** — Módulo administrativo para gestión de cursos, usuarios y ventas.
+3. **[Práctica DevOps: GitHub, Docker & Jenkins](https://github.com/FERNANDO230605/Practica-DevOps-GitHub-Docker-Jenkins)** — Automatización de integración y despliegue continuo (CI/CD).
+
+### 📫 Contacto
+- **Correo:** aguilerafernand145@gmail.com
